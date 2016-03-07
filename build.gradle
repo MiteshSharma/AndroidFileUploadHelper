@@ -50,7 +50,7 @@ dependencies {
 }
 
 def libraryGroupId = 'com.myth'
-def libraryArtifactId = 'fileuploadservice'
+def libraryArtifactId = 'file-upload-service'
 def libraryVersion = '0.0.1'
 
 publishing {
